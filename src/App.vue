@@ -10,6 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <h4><b>PROFILE</b></h4>
     <p>Name: Nur Atiqah Abdullah</p>
     <p>Course: Level 5 Diploma in Web Development</p>
+    <p>GroupCode: DWDT07</p>
     <p>School: School of SICT</p>
   </div>
 </div>
